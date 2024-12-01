@@ -2,6 +2,7 @@
 Analysis of fMRI data to investigate brain activity related to semantic memory
 # Brain Imaging Analysis for Semantic Memory
 **Student Name**: Bita Tehranfar
+
 **Course Code**: M_PROPSY  
 **Instructor**: Matthias Nau  
 **Teaching Assistant**: Anna van Harmelen  
