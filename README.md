@@ -6,7 +6,7 @@ Analysis of fMRI data to investigate brain activity related to semantic memory
 **Course Code**: M_PROPSY  
 **Instructor**: Matthias Nau  
 **Teaching Assistant**: Anna van Harmelen  
-**Date**: 01/12/2024  
+**Date**: 03/12/2024  
 
 ## Project Description
 This project involves the analysis of functional MRI data to investigate brain activity related to semantic memory. The goal is to visualize and understand which brain regions are activated during tasks involving semantic memory using neuroimaging data.
