@@ -9,10 +9,10 @@ Analysis of fMRI data to investigate brain activity related to semantic memory
 **Date**: 03/12/2024  
 
 ## Project Description
-This project involves the analysis of functional MRI data to investigate brain activity related to semantic memory. The goal is to visualize and understand which brain regions are activated during tasks involving semantic memory using neuroimaging data.
+This project involves the analysis of functional fMRI data to investigate brain activity related to semantic memory. The goal is to visualize and understand which brain regions are activated during tasks involving semantic memory using neuroimaging data.
 
 ## Data Used
-The dataset for this project includes functional and anatomical MRI images. These files are stored in the project directory and are loaded using Python's `glob` and `nilearn` libraries.
+The dataset for this project includes functional and anatomical fMRI images. These files are stored in the project directory and are loaded using Python's `glob` and `nilearn` libraries.
 
 ## Notebook Files
 - **main_notebook.ipynb**: This is the Jupyter notebook used for analyzing the data, visualizing the brain regions, and plotting histograms.
